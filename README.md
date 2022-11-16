@@ -27,7 +27,7 @@ A GraphQL server example built with the following technologies:
 
 ### Client
 
-A GraphQL client example built with the following technologies:
+A GraphQL client built with the following technologies:
 
 -   *apollo-client*. A state management library for JavaScript apps. You write a
     GraphQL query, and Apollo Client will take care of requesting and caching
